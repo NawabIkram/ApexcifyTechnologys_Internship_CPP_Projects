@@ -38,4 +38,3 @@ g++ main.cpp -o academy
 Nawab Ikram
 ---
 
-## ▶️ How to Run
